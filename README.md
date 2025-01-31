@@ -87,6 +87,8 @@ Add the `gl.js` script to your HTML file:
 
 3. Open `index.html` in your browser, and your app will be ready!
 
+**Example application:** [https://github.com/gabigonzalz/gl.js_framework_example](https://github.com/gabigonzalz/gl.js_framework_example)
+
 ---
 
 ## Development Guide

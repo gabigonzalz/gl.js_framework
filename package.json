@@ -1,0 +1,21 @@
+{
+  "name": "gl.js-framework",
+  "version": "1.0.0",
+  "main": "gl.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack"
+},
+  "keywords": [],
+  "author": "Gabriela G. F.",
+  "license": "ISC",
+  "description": "A tiny little micro framework to learn how they work!",
+  "dependencies": {
+    "@babel/core": "^7.26.7",
+    "@babel/preset-env": "^7.26.7",
+    "@babel/preset-react": "^7.26.3",
+    "babel-loader": "^9.2.1",
+    "webpack": "^5.97.1",
+    "webpack-cli": "^6.0.1"
+  }
+}
